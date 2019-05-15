@@ -1,12 +1,15 @@
 # DataJoint-NWB Showcase
 
-This project showcases published datasets with matching DataJoint pipelines and NWB 2.0 export capability.
+This project showcases published datasets in DataJoint pipelines and NWB 2.0 format.
+The project illustrates export of datasets from DataJoint pipelines to NWB 2.0 files.
+
+Datasets include trial-based behavior, extracellular and intracellular electrophysiology, calcium imaging, and optogenetics. 
 
 Each showcase comprises the following:
 
-* Basic project summary
+* Project summary
 * Instructions to download the data
-* The DataJoint pipeline to ingest the data
+* The DataJoint pipeline to ingest the data from a variety of legacy data formats
 * Scripts to export the data from the DataJoint pipeline into [NWB 2.0](https://www.nwb.org/2017/11/11/nwb-2-0-beta-released/) files.
 
 # License
